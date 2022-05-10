@@ -1,0 +1,2 @@
+match (actor:Person)-[r:ACTED_IN]->(movie)
+return actor.name, count(movie), collect(movie.title)

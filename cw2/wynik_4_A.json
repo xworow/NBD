@@ -1,0 +1,1212 @@
+MongoDB shell version v5.0.6
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("4b0a3f9d-841b-47c5-97e5-176a759105c7") }
+MongoDB server version: 5.0.6
+[
+	{
+		"nationality" : "Afghanistan",
+		"avg_bmi" : NumberDecimal("25.05"),
+		"min_bmi" : NumberDecimal("18.43"),
+		"max_bmi" : NumberDecimal("31.68")
+	},
+	{
+		"nationality" : "Aland Islands",
+		"avg_bmi" : NumberDecimal("28.16"),
+		"min_bmi" : NumberDecimal("22.42"),
+		"max_bmi" : NumberDecimal("33.93")
+	},
+	{
+		"nationality" : "Albania",
+		"avg_bmi" : NumberDecimal("24.71"),
+		"min_bmi" : NumberDecimal("19.00"),
+		"max_bmi" : NumberDecimal("31.99")
+	},
+	{
+		"nationality" : "Algeria",
+		"avg_bmi" : NumberDecimal("28.59"),
+		"min_bmi" : NumberDecimal("28.59"),
+		"max_bmi" : NumberDecimal("28.59")
+	},
+	{
+		"nationality" : "American Samoa",
+		"avg_bmi" : NumberDecimal("22.40"),
+		"min_bmi" : NumberDecimal("22.40"),
+		"max_bmi" : NumberDecimal("22.40")
+	},
+	{
+		"nationality" : "Andorra",
+		"avg_bmi" : NumberDecimal("28.17"),
+		"min_bmi" : NumberDecimal("25.69"),
+		"max_bmi" : NumberDecimal("30.65")
+	},
+	{
+		"nationality" : "Angola",
+		"avg_bmi" : NumberDecimal("24.18"),
+		"min_bmi" : NumberDecimal("18.36"),
+		"max_bmi" : NumberDecimal("31.67")
+	},
+	{
+		"nationality" : "Argentina",
+		"avg_bmi" : NumberDecimal("25.68"),
+		"min_bmi" : NumberDecimal("17.59"),
+		"max_bmi" : NumberDecimal("34.13")
+	},
+	{
+		"nationality" : "Armenia",
+		"avg_bmi" : NumberDecimal("24.94"),
+		"min_bmi" : NumberDecimal("19.17"),
+		"max_bmi" : NumberDecimal("31.67")
+	},
+	{
+		"nationality" : "Australia",
+		"avg_bmi" : NumberDecimal("25.20"),
+		"min_bmi" : NumberDecimal("20.65"),
+		"max_bmi" : NumberDecimal("29.82")
+	},
+	{
+		"nationality" : "Austria",
+		"avg_bmi" : NumberDecimal("27.94"),
+		"min_bmi" : NumberDecimal("23.02"),
+		"max_bmi" : NumberDecimal("37.26")
+	},
+	{
+		"nationality" : "Azerbaijan",
+		"avg_bmi" : NumberDecimal("25.95"),
+		"min_bmi" : NumberDecimal("18.77"),
+		"max_bmi" : NumberDecimal("36.93")
+	},
+	{
+		"nationality" : "Bahamas",
+		"avg_bmi" : NumberDecimal("24.99"),
+		"min_bmi" : NumberDecimal("22.24"),
+		"max_bmi" : NumberDecimal("26.60")
+	},
+	{
+		"nationality" : "Bangladesh",
+		"avg_bmi" : NumberDecimal("26.69"),
+		"min_bmi" : NumberDecimal("19.81"),
+		"max_bmi" : NumberDecimal("34.06")
+	},
+	{
+		"nationality" : "Barbados",
+		"avg_bmi" : NumberDecimal("21.34"),
+		"min_bmi" : NumberDecimal("21.34"),
+		"max_bmi" : NumberDecimal("21.34")
+	},
+	{
+		"nationality" : "Belarus",
+		"avg_bmi" : NumberDecimal("25.47"),
+		"min_bmi" : NumberDecimal("17.86"),
+		"max_bmi" : NumberDecimal("33.94")
+	},
+	{
+		"nationality" : "Belgium",
+		"avg_bmi" : NumberDecimal("26.14"),
+		"min_bmi" : NumberDecimal("20.05"),
+		"max_bmi" : NumberDecimal("29.00")
+	},
+	{
+		"nationality" : "Belize",
+		"avg_bmi" : NumberDecimal("23.22"),
+		"min_bmi" : NumberDecimal("18.42"),
+		"max_bmi" : NumberDecimal("26.22")
+	},
+	{
+		"nationality" : "Benin",
+		"avg_bmi" : NumberDecimal("25.78"),
+		"min_bmi" : NumberDecimal("21.33"),
+		"max_bmi" : NumberDecimal("30.30")
+	},
+	{
+		"nationality" : "Bhutan",
+		"avg_bmi" : NumberDecimal("24.06"),
+		"min_bmi" : NumberDecimal("19.42"),
+		"max_bmi" : NumberDecimal("31.36")
+	},
+	{
+		"nationality" : "Bolivia",
+		"avg_bmi" : NumberDecimal("25.29"),
+		"min_bmi" : NumberDecimal("20.46"),
+		"max_bmi" : NumberDecimal("32.05")
+	},
+	{
+		"nationality" : "Bosnia and Herzegovina",
+		"avg_bmi" : NumberDecimal("25.42"),
+		"min_bmi" : NumberDecimal("16.93"),
+		"max_bmi" : NumberDecimal("35.97")
+	},
+	{
+		"nationality" : "Botswana",
+		"avg_bmi" : NumberDecimal("24.65"),
+		"min_bmi" : NumberDecimal("21.66"),
+		"max_bmi" : NumberDecimal("27.18")
+	},
+	{
+		"nationality" : "Brazil",
+		"avg_bmi" : NumberDecimal("25.62"),
+		"min_bmi" : NumberDecimal("17.46"),
+		"max_bmi" : NumberDecimal("40.63")
+	},
+	{
+		"nationality" : "Brunei",
+		"avg_bmi" : NumberDecimal("25.03"),
+		"min_bmi" : NumberDecimal("25.03"),
+		"max_bmi" : NumberDecimal("25.03")
+	},
+	{
+		"nationality" : "Bulgaria",
+		"avg_bmi" : NumberDecimal("24.58"),
+		"min_bmi" : NumberDecimal("18.42"),
+		"max_bmi" : NumberDecimal("32.60")
+	},
+	{
+		"nationality" : "Burkina Faso",
+		"avg_bmi" : NumberDecimal("27.58"),
+		"min_bmi" : NumberDecimal("19.87"),
+		"max_bmi" : NumberDecimal("39.85")
+	},
+	{
+		"nationality" : "Burundi",
+		"avg_bmi" : NumberDecimal("25.65"),
+		"min_bmi" : NumberDecimal("23.42"),
+		"max_bmi" : NumberDecimal("28.50")
+	},
+	{
+		"nationality" : "Cambodia",
+		"avg_bmi" : NumberDecimal("27.38"),
+		"min_bmi" : NumberDecimal("21.87"),
+		"max_bmi" : NumberDecimal("33.33")
+	},
+	{
+		"nationality" : "Cameroon",
+		"avg_bmi" : NumberDecimal("24.64"),
+		"min_bmi" : NumberDecimal("19.68"),
+		"max_bmi" : NumberDecimal("33.17")
+	},
+	{
+		"nationality" : "Canada",
+		"avg_bmi" : NumberDecimal("25.52"),
+		"min_bmi" : NumberDecimal("18.34"),
+		"max_bmi" : NumberDecimal("33.61")
+	},
+	{
+		"nationality" : "Cape Verde",
+		"avg_bmi" : NumberDecimal("25.33"),
+		"min_bmi" : NumberDecimal("19.21"),
+		"max_bmi" : NumberDecimal("35.05")
+	},
+	{
+		"nationality" : "Central African Republic",
+		"avg_bmi" : NumberDecimal("23.92"),
+		"min_bmi" : NumberDecimal("19.61"),
+		"max_bmi" : NumberDecimal("28.95")
+	},
+	{
+		"nationality" : "Chad",
+		"avg_bmi" : NumberDecimal("25.91"),
+		"min_bmi" : NumberDecimal("19.38"),
+		"max_bmi" : NumberDecimal("32.15")
+	},
+	{
+		"nationality" : "Chile",
+		"avg_bmi" : NumberDecimal("24.87"),
+		"min_bmi" : NumberDecimal("16.95"),
+		"max_bmi" : NumberDecimal("29.80")
+	},
+	{
+		"nationality" : "China",
+		"avg_bmi" : NumberDecimal("25.58"),
+		"min_bmi" : NumberDecimal("15.46"),
+		"max_bmi" : NumberDecimal("42.36")
+	},
+	{
+		"nationality" : "Colombia",
+		"avg_bmi" : NumberDecimal("25.78"),
+		"min_bmi" : NumberDecimal("18.55"),
+		"max_bmi" : NumberDecimal("35.40")
+	},
+	{
+		"nationality" : "Comoros",
+		"avg_bmi" : NumberDecimal("25.44"),
+		"min_bmi" : NumberDecimal("19.74"),
+		"max_bmi" : NumberDecimal("33.86")
+	},
+	{
+		"nationality" : "Costa Rica",
+		"avg_bmi" : NumberDecimal("24.65"),
+		"min_bmi" : NumberDecimal("20.49"),
+		"max_bmi" : NumberDecimal("28.90")
+	},
+	{
+		"nationality" : "Croatia",
+		"avg_bmi" : NumberDecimal("24.86"),
+		"min_bmi" : NumberDecimal("18.79"),
+		"max_bmi" : NumberDecimal("38.54")
+	},
+	{
+		"nationality" : "Cuba",
+		"avg_bmi" : NumberDecimal("26.38"),
+		"min_bmi" : NumberDecimal("18.49"),
+		"max_bmi" : NumberDecimal("35.42")
+	},
+	{
+		"nationality" : "Cyprus",
+		"avg_bmi" : NumberDecimal("25.19"),
+		"min_bmi" : NumberDecimal("22.20"),
+		"max_bmi" : NumberDecimal("29.83")
+	},
+	{
+		"nationality" : "Czech Republic",
+		"avg_bmi" : NumberDecimal("25.23"),
+		"min_bmi" : NumberDecimal("18.56"),
+		"max_bmi" : NumberDecimal("33.15")
+	},
+	{
+		"nationality" : "Democratic Republic of the Congo",
+		"avg_bmi" : NumberDecimal("26.53"),
+		"min_bmi" : NumberDecimal("18.28"),
+		"max_bmi" : NumberDecimal("33.52")
+	},
+	{
+		"nationality" : "Denmark",
+		"avg_bmi" : NumberDecimal("23.57"),
+		"min_bmi" : NumberDecimal("21.08"),
+		"max_bmi" : NumberDecimal("27.82")
+	},
+	{
+		"nationality" : "Dominica",
+		"avg_bmi" : NumberDecimal("26.42"),
+		"min_bmi" : NumberDecimal("26.42"),
+		"max_bmi" : NumberDecimal("26.42")
+	},
+	{
+		"nationality" : "Dominican Republic",
+		"avg_bmi" : NumberDecimal("24.16"),
+		"min_bmi" : NumberDecimal("18.01"),
+		"max_bmi" : NumberDecimal("30.33")
+	},
+	{
+		"nationality" : "East Timor",
+		"avg_bmi" : NumberDecimal("25.83"),
+		"min_bmi" : NumberDecimal("21.53"),
+		"max_bmi" : NumberDecimal("32.73")
+	},
+	{
+		"nationality" : "Ecuador",
+		"avg_bmi" : NumberDecimal("25.66"),
+		"min_bmi" : NumberDecimal("19.84"),
+		"max_bmi" : NumberDecimal("31.54")
+	},
+	{
+		"nationality" : "Egypt",
+		"avg_bmi" : NumberDecimal("24.28"),
+		"min_bmi" : NumberDecimal("17.65"),
+		"max_bmi" : NumberDecimal("32.03")
+	},
+	{
+		"nationality" : "El Salvador",
+		"avg_bmi" : NumberDecimal("25.35"),
+		"min_bmi" : NumberDecimal("21.93"),
+		"max_bmi" : NumberDecimal("33.56")
+	},
+	{
+		"nationality" : "Equatorial Guinea",
+		"avg_bmi" : NumberDecimal("24.78"),
+		"min_bmi" : NumberDecimal("24.78"),
+		"max_bmi" : NumberDecimal("24.78")
+	},
+	{
+		"nationality" : "Eritrea",
+		"avg_bmi" : NumberDecimal("26.19"),
+		"min_bmi" : NumberDecimal("24.50"),
+		"max_bmi" : NumberDecimal("28.71")
+	},
+	{
+		"nationality" : "Estonia",
+		"avg_bmi" : NumberDecimal("25.54"),
+		"min_bmi" : NumberDecimal("18.56"),
+		"max_bmi" : NumberDecimal("28.68")
+	},
+	{
+		"nationality" : "Ethiopia",
+		"avg_bmi" : NumberDecimal("25.47"),
+		"min_bmi" : NumberDecimal("20.55"),
+		"max_bmi" : NumberDecimal("32.85")
+	},
+	{
+		"nationality" : "Fiji",
+		"avg_bmi" : NumberDecimal("21.20"),
+		"min_bmi" : NumberDecimal("21.20"),
+		"max_bmi" : NumberDecimal("21.20")
+	},
+	{
+		"nationality" : "Finland",
+		"avg_bmi" : NumberDecimal("25.63"),
+		"min_bmi" : NumberDecimal("18.31"),
+		"max_bmi" : NumberDecimal("36.89")
+	},
+	{
+		"nationality" : "France",
+		"avg_bmi" : NumberDecimal("25.22"),
+		"min_bmi" : NumberDecimal("17.68"),
+		"max_bmi" : NumberDecimal("40.69")
+	},
+	{
+		"nationality" : "French Guiana",
+		"avg_bmi" : NumberDecimal("25.59"),
+		"min_bmi" : NumberDecimal("22.27"),
+		"max_bmi" : NumberDecimal("28.91")
+	},
+	{
+		"nationality" : "French Polynesia",
+		"avg_bmi" : NumberDecimal("25.35"),
+		"min_bmi" : NumberDecimal("20.30"),
+		"max_bmi" : NumberDecimal("28.54")
+	},
+	{
+		"nationality" : "Gabon",
+		"avg_bmi" : NumberDecimal("25.66"),
+		"min_bmi" : NumberDecimal("22.27"),
+		"max_bmi" : NumberDecimal("29.05")
+	},
+	{
+		"nationality" : "Gambia",
+		"avg_bmi" : NumberDecimal("23.77"),
+		"min_bmi" : NumberDecimal("17.84"),
+		"max_bmi" : NumberDecimal("29.04")
+	},
+	{
+		"nationality" : "Georgia",
+		"avg_bmi" : NumberDecimal("24.32"),
+		"min_bmi" : NumberDecimal("19.91"),
+		"max_bmi" : NumberDecimal("27.70")
+	},
+	{
+		"nationality" : "Germany",
+		"avg_bmi" : NumberDecimal("24.62"),
+		"min_bmi" : NumberDecimal("19.81"),
+		"max_bmi" : NumberDecimal("32.56")
+	},
+	{
+		"nationality" : "Ghana",
+		"avg_bmi" : NumberDecimal("25.84"),
+		"min_bmi" : NumberDecimal("22.31"),
+		"max_bmi" : NumberDecimal("32.50")
+	},
+	{
+		"nationality" : "Greece",
+		"avg_bmi" : NumberDecimal("25.76"),
+		"min_bmi" : NumberDecimal("19.13"),
+		"max_bmi" : NumberDecimal("41.53")
+	},
+	{
+		"nationality" : "Greenland",
+		"avg_bmi" : NumberDecimal("25.87"),
+		"min_bmi" : NumberDecimal("25.87"),
+		"max_bmi" : NumberDecimal("25.87")
+	},
+	{
+		"nationality" : "Guadeloupe",
+		"avg_bmi" : NumberDecimal("22.07"),
+		"min_bmi" : NumberDecimal("22.07"),
+		"max_bmi" : NumberDecimal("22.07")
+	},
+	{
+		"nationality" : "Guam",
+		"avg_bmi" : NumberDecimal("22.45"),
+		"min_bmi" : NumberDecimal("20.67"),
+		"max_bmi" : NumberDecimal("24.01")
+	},
+	{
+		"nationality" : "Guatemala",
+		"avg_bmi" : NumberDecimal("25.74"),
+		"min_bmi" : NumberDecimal("19.62"),
+		"max_bmi" : NumberDecimal("32.13")
+	},
+	{
+		"nationality" : "Guinea",
+		"avg_bmi" : NumberDecimal("27.91"),
+		"min_bmi" : NumberDecimal("20.46"),
+		"max_bmi" : NumberDecimal("34.46")
+	},
+	{
+		"nationality" : "Guinea-Bissau",
+		"avg_bmi" : NumberDecimal("24.43"),
+		"min_bmi" : NumberDecimal("23.29"),
+		"max_bmi" : NumberDecimal("26.54")
+	},
+	{
+		"nationality" : "Guyana",
+		"avg_bmi" : NumberDecimal("26.16"),
+		"min_bmi" : NumberDecimal("24.10"),
+		"max_bmi" : NumberDecimal("28.21")
+	},
+	{
+		"nationality" : "Haiti",
+		"avg_bmi" : NumberDecimal("26.05"),
+		"min_bmi" : NumberDecimal("21.95"),
+		"max_bmi" : NumberDecimal("34.71")
+	},
+	{
+		"nationality" : "Honduras",
+		"avg_bmi" : NumberDecimal("25.48"),
+		"min_bmi" : NumberDecimal("18.48"),
+		"max_bmi" : NumberDecimal("35.22")
+	},
+	{
+		"nationality" : "Hong Kong",
+		"avg_bmi" : NumberDecimal("27.28"),
+		"min_bmi" : NumberDecimal("27.28"),
+		"max_bmi" : NumberDecimal("27.28")
+	},
+	{
+		"nationality" : "Hungary",
+		"avg_bmi" : NumberDecimal("26.31"),
+		"min_bmi" : NumberDecimal("22.36"),
+		"max_bmi" : NumberDecimal("32.69")
+	},
+	{
+		"nationality" : "Iceland",
+		"avg_bmi" : NumberDecimal("25.59"),
+		"min_bmi" : NumberDecimal("22.67"),
+		"max_bmi" : NumberDecimal("30.15")
+	},
+	{
+		"nationality" : "Indonesia",
+		"avg_bmi" : NumberDecimal("25.50"),
+		"min_bmi" : NumberDecimal("14.75"),
+		"max_bmi" : NumberDecimal("45.23")
+	},
+	{
+		"nationality" : "Iran",
+		"avg_bmi" : NumberDecimal("25.85"),
+		"min_bmi" : NumberDecimal("18.24"),
+		"max_bmi" : NumberDecimal("37.98")
+	},
+	{
+		"nationality" : "Iraq",
+		"avg_bmi" : NumberDecimal("24.10"),
+		"min_bmi" : NumberDecimal("17.81"),
+		"max_bmi" : NumberDecimal("33.24")
+	},
+	{
+		"nationality" : "Ireland",
+		"avg_bmi" : NumberDecimal("25.95"),
+		"min_bmi" : NumberDecimal("17.75"),
+		"max_bmi" : NumberDecimal("33.52")
+	},
+	{
+		"nationality" : "Israel",
+		"avg_bmi" : NumberDecimal("25.45"),
+		"min_bmi" : NumberDecimal("21.29"),
+		"max_bmi" : NumberDecimal("30.14")
+	},
+	{
+		"nationality" : "Italy",
+		"avg_bmi" : NumberDecimal("25.22"),
+		"min_bmi" : NumberDecimal("18.63"),
+		"max_bmi" : NumberDecimal("31.28")
+	},
+	{
+		"nationality" : "Ivory Coast",
+		"avg_bmi" : NumberDecimal("26.74"),
+		"min_bmi" : NumberDecimal("20.50"),
+		"max_bmi" : NumberDecimal("35.27")
+	},
+	{
+		"nationality" : "Jamaica",
+		"avg_bmi" : NumberDecimal("24.93"),
+		"min_bmi" : NumberDecimal("22.28"),
+		"max_bmi" : NumberDecimal("28.98")
+	},
+	{
+		"nationality" : "Japan",
+		"avg_bmi" : NumberDecimal("25.29"),
+		"min_bmi" : NumberDecimal("18.90"),
+		"max_bmi" : NumberDecimal("37.21")
+	},
+	{
+		"nationality" : "Jordan",
+		"avg_bmi" : NumberDecimal("26.64"),
+		"min_bmi" : NumberDecimal("21.21"),
+		"max_bmi" : NumberDecimal("32.35")
+	},
+	{
+		"nationality" : "Kazakhstan",
+		"avg_bmi" : NumberDecimal("25.87"),
+		"min_bmi" : NumberDecimal("16.81"),
+		"max_bmi" : NumberDecimal("36.90")
+	},
+	{
+		"nationality" : "Kenya",
+		"avg_bmi" : NumberDecimal("25.84"),
+		"min_bmi" : NumberDecimal("21.96"),
+		"max_bmi" : NumberDecimal("32.42")
+	},
+	{
+		"nationality" : "Kiribati",
+		"avg_bmi" : NumberDecimal("23.10"),
+		"min_bmi" : NumberDecimal("23.10"),
+		"max_bmi" : NumberDecimal("23.10")
+	},
+	{
+		"nationality" : "Kosovo",
+		"avg_bmi" : NumberDecimal("24.13"),
+		"min_bmi" : NumberDecimal("19.25"),
+		"max_bmi" : NumberDecimal("29.62")
+	},
+	{
+		"nationality" : "Kuwait",
+		"avg_bmi" : NumberDecimal("25.23"),
+		"min_bmi" : NumberDecimal("22.44"),
+		"max_bmi" : NumberDecimal("27.18")
+	},
+	{
+		"nationality" : "Kyrgyzstan",
+		"avg_bmi" : NumberDecimal("23.79"),
+		"min_bmi" : NumberDecimal("16.85"),
+		"max_bmi" : NumberDecimal("34.06")
+	},
+	{
+		"nationality" : "Laos",
+		"avg_bmi" : NumberDecimal("24.71"),
+		"min_bmi" : NumberDecimal("20.41"),
+		"max_bmi" : NumberDecimal("28.47")
+	},
+	{
+		"nationality" : "Latvia",
+		"avg_bmi" : NumberDecimal("26.63"),
+		"min_bmi" : NumberDecimal("18.44"),
+		"max_bmi" : NumberDecimal("32.89")
+	},
+	{
+		"nationality" : "Lebanon",
+		"avg_bmi" : NumberDecimal("27.51"),
+		"min_bmi" : NumberDecimal("22.70"),
+		"max_bmi" : NumberDecimal("32.44")
+	},
+	{
+		"nationality" : "Lesotho",
+		"avg_bmi" : NumberDecimal("25.36"),
+		"min_bmi" : NumberDecimal("19.80"),
+		"max_bmi" : NumberDecimal("30.16")
+	},
+	{
+		"nationality" : "Liberia",
+		"avg_bmi" : NumberDecimal("25.90"),
+		"min_bmi" : NumberDecimal("22.65"),
+		"max_bmi" : NumberDecimal("29.63")
+	},
+	{
+		"nationality" : "Libya",
+		"avg_bmi" : NumberDecimal("27.27"),
+		"min_bmi" : NumberDecimal("21.43"),
+		"max_bmi" : NumberDecimal("35.15")
+	},
+	{
+		"nationality" : "Lithuania",
+		"avg_bmi" : NumberDecimal("24.41"),
+		"min_bmi" : NumberDecimal("19.69"),
+		"max_bmi" : NumberDecimal("30.89")
+	},
+	{
+		"nationality" : "Luxembourg",
+		"avg_bmi" : NumberDecimal("26.31"),
+		"min_bmi" : NumberDecimal("19.27"),
+		"max_bmi" : NumberDecimal("33.22")
+	},
+	{
+		"nationality" : "Macao",
+		"avg_bmi" : NumberDecimal("23.99"),
+		"min_bmi" : NumberDecimal("23.99"),
+		"max_bmi" : NumberDecimal("23.99")
+	},
+	{
+		"nationality" : "Macedonia",
+		"avg_bmi" : NumberDecimal("25.17"),
+		"min_bmi" : NumberDecimal("20.50"),
+		"max_bmi" : NumberDecimal("32.53")
+	},
+	{
+		"nationality" : "Madagascar",
+		"avg_bmi" : NumberDecimal("24.78"),
+		"min_bmi" : NumberDecimal("17.56"),
+		"max_bmi" : NumberDecimal("30.19")
+	},
+	{
+		"nationality" : "Malawi",
+		"avg_bmi" : NumberDecimal("27.30"),
+		"min_bmi" : NumberDecimal("23.29"),
+		"max_bmi" : NumberDecimal("30.50")
+	},
+	{
+		"nationality" : "Malaysia",
+		"avg_bmi" : NumberDecimal("25.61"),
+		"min_bmi" : NumberDecimal("18.54"),
+		"max_bmi" : NumberDecimal("36.53")
+	},
+	{
+		"nationality" : "Maldives",
+		"avg_bmi" : NumberDecimal("25.39"),
+		"min_bmi" : NumberDecimal("23.65"),
+		"max_bmi" : NumberDecimal("28.26")
+	},
+	{
+		"nationality" : "Mali",
+		"avg_bmi" : NumberDecimal("24.92"),
+		"min_bmi" : NumberDecimal("19.25"),
+		"max_bmi" : NumberDecimal("31.67")
+	},
+	{
+		"nationality" : "Malta",
+		"avg_bmi" : NumberDecimal("26.17"),
+		"min_bmi" : NumberDecimal("22.12"),
+		"max_bmi" : NumberDecimal("36.02")
+	},
+	{
+		"nationality" : "Marshall Islands",
+		"avg_bmi" : NumberDecimal("24.44"),
+		"min_bmi" : NumberDecimal("22.40"),
+		"max_bmi" : NumberDecimal("26.90")
+	},
+	{
+		"nationality" : "Martinique",
+		"avg_bmi" : NumberDecimal("24.03"),
+		"min_bmi" : NumberDecimal("24.03"),
+		"max_bmi" : NumberDecimal("24.03")
+	},
+	{
+		"nationality" : "Mauritania",
+		"avg_bmi" : NumberDecimal("21.56"),
+		"min_bmi" : NumberDecimal("20.43"),
+		"max_bmi" : NumberDecimal("22.70")
+	},
+	{
+		"nationality" : "Mauritius",
+		"avg_bmi" : NumberDecimal("25.49"),
+		"min_bmi" : NumberDecimal("19.23"),
+		"max_bmi" : NumberDecimal("38.86")
+	},
+	{
+		"nationality" : "Mexico",
+		"avg_bmi" : NumberDecimal("25.47"),
+		"min_bmi" : NumberDecimal("18.92"),
+		"max_bmi" : NumberDecimal("36.27")
+	},
+	{
+		"nationality" : "Micronesia",
+		"avg_bmi" : NumberDecimal("23.31"),
+		"min_bmi" : NumberDecimal("20.48"),
+		"max_bmi" : NumberDecimal("25.25")
+	},
+	{
+		"nationality" : "Moldova",
+		"avg_bmi" : NumberDecimal("25.57"),
+		"min_bmi" : NumberDecimal("19.69"),
+		"max_bmi" : NumberDecimal("32.57")
+	},
+	{
+		"nationality" : "Monaco",
+		"avg_bmi" : NumberDecimal("28.93"),
+		"min_bmi" : NumberDecimal("28.93"),
+		"max_bmi" : NumberDecimal("28.93")
+	},
+	{
+		"nationality" : "Mongolia",
+		"avg_bmi" : NumberDecimal("24.03"),
+		"min_bmi" : NumberDecimal("19.12"),
+		"max_bmi" : NumberDecimal("31.48")
+	},
+	{
+		"nationality" : "Montenegro",
+		"avg_bmi" : NumberDecimal("24.01"),
+		"min_bmi" : NumberDecimal("20.74"),
+		"max_bmi" : NumberDecimal("29.53")
+	},
+	{
+		"nationality" : "Morocco",
+		"avg_bmi" : NumberDecimal("25.87"),
+		"min_bmi" : NumberDecimal("20.18"),
+		"max_bmi" : NumberDecimal("32.91")
+	},
+	{
+		"nationality" : "Mozambique",
+		"avg_bmi" : NumberDecimal("25.56"),
+		"min_bmi" : NumberDecimal("22.80"),
+		"max_bmi" : NumberDecimal("29.45")
+	},
+	{
+		"nationality" : "Myanmar",
+		"avg_bmi" : NumberDecimal("25.96"),
+		"min_bmi" : NumberDecimal("21.00"),
+		"max_bmi" : NumberDecimal("31.45")
+	},
+	{
+		"nationality" : "Namibia",
+		"avg_bmi" : NumberDecimal("26.74"),
+		"min_bmi" : NumberDecimal("22.33"),
+		"max_bmi" : NumberDecimal("32.28")
+	},
+	{
+		"nationality" : "Nauru",
+		"avg_bmi" : NumberDecimal("22.91"),
+		"min_bmi" : NumberDecimal("22.91"),
+		"max_bmi" : NumberDecimal("22.91")
+	},
+	{
+		"nationality" : "Nepal",
+		"avg_bmi" : NumberDecimal("26.43"),
+		"min_bmi" : NumberDecimal("19.75"),
+		"max_bmi" : NumberDecimal("31.08")
+	},
+	{
+		"nationality" : "Netherlands",
+		"avg_bmi" : NumberDecimal("26.02"),
+		"min_bmi" : NumberDecimal("19.38"),
+		"max_bmi" : NumberDecimal("34.91")
+	},
+	{
+		"nationality" : "New Caledonia",
+		"avg_bmi" : NumberDecimal("25.51"),
+		"min_bmi" : NumberDecimal("24.07"),
+		"max_bmi" : NumberDecimal("26.94")
+	},
+	{
+		"nationality" : "New Zealand",
+		"avg_bmi" : NumberDecimal("25.36"),
+		"min_bmi" : NumberDecimal("20.02"),
+		"max_bmi" : NumberDecimal("33.71")
+	},
+	{
+		"nationality" : "Nicaragua",
+		"avg_bmi" : NumberDecimal("24.17"),
+		"min_bmi" : NumberDecimal("19.78"),
+		"max_bmi" : NumberDecimal("30.04")
+	},
+	{
+		"nationality" : "Niger",
+		"avg_bmi" : NumberDecimal("26.38"),
+		"min_bmi" : NumberDecimal("20.07"),
+		"max_bmi" : NumberDecimal("30.23")
+	},
+	{
+		"nationality" : "Nigeria",
+		"avg_bmi" : NumberDecimal("24.80"),
+		"min_bmi" : NumberDecimal("16.86"),
+		"max_bmi" : NumberDecimal("36.16")
+	},
+	{
+		"nationality" : "North Korea",
+		"avg_bmi" : NumberDecimal("26.21"),
+		"min_bmi" : NumberDecimal("20.92"),
+		"max_bmi" : NumberDecimal("30.61")
+	},
+	{
+		"nationality" : "Northern Mariana Islands",
+		"avg_bmi" : NumberDecimal("25.91"),
+		"min_bmi" : NumberDecimal("25.91"),
+		"max_bmi" : NumberDecimal("25.91")
+	},
+	{
+		"nationality" : "Norway",
+		"avg_bmi" : NumberDecimal("27.01"),
+		"min_bmi" : NumberDecimal("19.60"),
+		"max_bmi" : NumberDecimal("35.17")
+	},
+	{
+		"nationality" : "Oman",
+		"avg_bmi" : NumberDecimal("25.69"),
+		"min_bmi" : NumberDecimal("23.60"),
+		"max_bmi" : NumberDecimal("27.08")
+	},
+	{
+		"nationality" : "Pakistan",
+		"avg_bmi" : NumberDecimal("25.03"),
+		"min_bmi" : NumberDecimal("17.51"),
+		"max_bmi" : NumberDecimal("35.54")
+	},
+	{
+		"nationality" : "Palau",
+		"avg_bmi" : NumberDecimal("29.62"),
+		"min_bmi" : NumberDecimal("29.24"),
+		"max_bmi" : NumberDecimal("30.00")
+	},
+	{
+		"nationality" : "Palestinian Territory",
+		"avg_bmi" : NumberDecimal("25.52"),
+		"min_bmi" : NumberDecimal("19.18"),
+		"max_bmi" : NumberDecimal("35.54")
+	},
+	{
+		"nationality" : "Panama",
+		"avg_bmi" : NumberDecimal("24.99"),
+		"min_bmi" : NumberDecimal("20.50"),
+		"max_bmi" : NumberDecimal("33.20")
+	},
+	{
+		"nationality" : "Papua New Guinea",
+		"avg_bmi" : NumberDecimal("24.21"),
+		"min_bmi" : NumberDecimal("19.86"),
+		"max_bmi" : NumberDecimal("26.90")
+	},
+	{
+		"nationality" : "Paraguay",
+		"avg_bmi" : NumberDecimal("25.12"),
+		"min_bmi" : NumberDecimal("21.19"),
+		"max_bmi" : NumberDecimal("32.98")
+	},
+	{
+		"nationality" : "Peru",
+		"avg_bmi" : NumberDecimal("25.27"),
+		"min_bmi" : NumberDecimal("17.81"),
+		"max_bmi" : NumberDecimal("36.36")
+	},
+	{
+		"nationality" : "Philippines",
+		"avg_bmi" : NumberDecimal("25.21"),
+		"min_bmi" : NumberDecimal("17.75"),
+		"max_bmi" : NumberDecimal("40.15")
+	},
+	{
+		"nationality" : "Poland",
+		"avg_bmi" : NumberDecimal("25.27"),
+		"min_bmi" : NumberDecimal("18.01"),
+		"max_bmi" : NumberDecimal("36.72")
+	},
+	{
+		"nationality" : "Portugal",
+		"avg_bmi" : NumberDecimal("25.47"),
+		"min_bmi" : NumberDecimal("17.25"),
+		"max_bmi" : NumberDecimal("39.67")
+	},
+	{
+		"nationality" : "Puerto Rico",
+		"avg_bmi" : NumberDecimal("25.26"),
+		"min_bmi" : NumberDecimal("22.62"),
+		"max_bmi" : NumberDecimal("27.28")
+	},
+	{
+		"nationality" : "Qatar",
+		"avg_bmi" : NumberDecimal("25.75"),
+		"min_bmi" : NumberDecimal("21.90"),
+		"max_bmi" : NumberDecimal("29.60")
+	},
+	{
+		"nationality" : "Republic of the Congo",
+		"avg_bmi" : NumberDecimal("25.56"),
+		"min_bmi" : NumberDecimal("17.66"),
+		"max_bmi" : NumberDecimal("30.40")
+	},
+	{
+		"nationality" : "Reunion",
+		"avg_bmi" : NumberDecimal("26.42"),
+		"min_bmi" : NumberDecimal("18.73"),
+		"max_bmi" : NumberDecimal("39.17")
+	},
+	{
+		"nationality" : "Russia",
+		"avg_bmi" : NumberDecimal("25.40"),
+		"min_bmi" : NumberDecimal("17.63"),
+		"max_bmi" : NumberDecimal("39.88")
+	},
+	{
+		"nationality" : "Rwanda",
+		"avg_bmi" : NumberDecimal("25.96"),
+		"min_bmi" : NumberDecimal("22.83"),
+		"max_bmi" : NumberDecimal("27.60")
+	},
+	{
+		"nationality" : "Saint Kitts and Nevis",
+		"avg_bmi" : NumberDecimal("27.80"),
+		"min_bmi" : NumberDecimal("25.18"),
+		"max_bmi" : NumberDecimal("30.06")
+	},
+	{
+		"nationality" : "Saint Lucia",
+		"avg_bmi" : NumberDecimal("23.01"),
+		"min_bmi" : NumberDecimal("20.26"),
+		"max_bmi" : NumberDecimal("27.57")
+	},
+	{
+		"nationality" : "Samoa",
+		"avg_bmi" : NumberDecimal("20.54"),
+		"min_bmi" : NumberDecimal("20.54"),
+		"max_bmi" : NumberDecimal("20.54")
+	},
+	{
+		"nationality" : "Saudi Arabia",
+		"avg_bmi" : NumberDecimal("25.68"),
+		"min_bmi" : NumberDecimal("19.97"),
+		"max_bmi" : NumberDecimal("32.10")
+	},
+	{
+		"nationality" : "Senegal",
+		"avg_bmi" : NumberDecimal("23.42"),
+		"min_bmi" : NumberDecimal("21.10"),
+		"max_bmi" : NumberDecimal("26.59")
+	},
+	{
+		"nationality" : "Serbia",
+		"avg_bmi" : NumberDecimal("25.79"),
+		"min_bmi" : NumberDecimal("19.73"),
+		"max_bmi" : NumberDecimal("43.55")
+	},
+	{
+		"nationality" : "Seychelles",
+		"avg_bmi" : NumberDecimal("25.71"),
+		"min_bmi" : NumberDecimal("25.71"),
+		"max_bmi" : NumberDecimal("25.71")
+	},
+	{
+		"nationality" : "Sierra Leone",
+		"avg_bmi" : NumberDecimal("25.11"),
+		"min_bmi" : NumberDecimal("19.50"),
+		"max_bmi" : NumberDecimal("33.45")
+	},
+	{
+		"nationality" : "Sint Maarten",
+		"avg_bmi" : NumberDecimal("23.16"),
+		"min_bmi" : NumberDecimal("22.22"),
+		"max_bmi" : NumberDecimal("24.10")
+	},
+	{
+		"nationality" : "Slovakia",
+		"avg_bmi" : NumberDecimal("21.34"),
+		"min_bmi" : NumberDecimal("21.34"),
+		"max_bmi" : NumberDecimal("21.34")
+	},
+	{
+		"nationality" : "Slovenia",
+		"avg_bmi" : NumberDecimal("25.21"),
+		"min_bmi" : NumberDecimal("17.37"),
+		"max_bmi" : NumberDecimal("32.66")
+	},
+	{
+		"nationality" : "Somalia",
+		"avg_bmi" : NumberDecimal("29.95"),
+		"min_bmi" : NumberDecimal("29.95"),
+		"max_bmi" : NumberDecimal("29.95")
+	},
+	{
+		"nationality" : "South Africa",
+		"avg_bmi" : NumberDecimal("25.86"),
+		"min_bmi" : NumberDecimal("17.34"),
+		"max_bmi" : NumberDecimal("40.54")
+	},
+	{
+		"nationality" : "South Korea",
+		"avg_bmi" : NumberDecimal("24.68"),
+		"min_bmi" : NumberDecimal("19.48"),
+		"max_bmi" : NumberDecimal("31.35")
+	},
+	{
+		"nationality" : "South Sudan",
+		"avg_bmi" : NumberDecimal("25.96"),
+		"min_bmi" : NumberDecimal("25.96"),
+		"max_bmi" : NumberDecimal("25.96")
+	},
+	{
+		"nationality" : "Spain",
+		"avg_bmi" : NumberDecimal("26.17"),
+		"min_bmi" : NumberDecimal("21.72"),
+		"max_bmi" : NumberDecimal("34.94")
+	},
+	{
+		"nationality" : "Sri Lanka",
+		"avg_bmi" : NumberDecimal("24.58"),
+		"min_bmi" : NumberDecimal("20.74"),
+		"max_bmi" : NumberDecimal("28.60")
+	},
+	{
+		"nationality" : "Sudan",
+		"avg_bmi" : NumberDecimal("24.95"),
+		"min_bmi" : NumberDecimal("22.77"),
+		"max_bmi" : NumberDecimal("26.39")
+	},
+	{
+		"nationality" : "Suriname",
+		"avg_bmi" : NumberDecimal("30.39"),
+		"min_bmi" : NumberDecimal("30.39"),
+		"max_bmi" : NumberDecimal("30.39")
+	},
+	{
+		"nationality" : "Swaziland",
+		"avg_bmi" : NumberDecimal("20.90"),
+		"min_bmi" : NumberDecimal("20.90"),
+		"max_bmi" : NumberDecimal("20.90")
+	},
+	{
+		"nationality" : "Sweden",
+		"avg_bmi" : NumberDecimal("25.76"),
+		"min_bmi" : NumberDecimal("18.10"),
+		"max_bmi" : NumberDecimal("40.09")
+	},
+	{
+		"nationality" : "Switzerland",
+		"avg_bmi" : NumberDecimal("25.71"),
+		"min_bmi" : NumberDecimal("20.19"),
+		"max_bmi" : NumberDecimal("31.15")
+	},
+	{
+		"nationality" : "Syria",
+		"avg_bmi" : NumberDecimal("25.38"),
+		"min_bmi" : NumberDecimal("18.67"),
+		"max_bmi" : NumberDecimal("36.40")
+	},
+	{
+		"nationality" : "Taiwan",
+		"avg_bmi" : NumberDecimal("26.61"),
+		"min_bmi" : NumberDecimal("20.36"),
+		"max_bmi" : NumberDecimal("31.17")
+	},
+	{
+		"nationality" : "Tajikistan",
+		"avg_bmi" : NumberDecimal("24.96"),
+		"min_bmi" : NumberDecimal("19.99"),
+		"max_bmi" : NumberDecimal("31.13")
+	},
+	{
+		"nationality" : "Tanzania",
+		"avg_bmi" : NumberDecimal("26.25"),
+		"min_bmi" : NumberDecimal("20.05"),
+		"max_bmi" : NumberDecimal("35.00")
+	},
+	{
+		"nationality" : "Thailand",
+		"avg_bmi" : NumberDecimal("25.69"),
+		"min_bmi" : NumberDecimal("18.18"),
+		"max_bmi" : NumberDecimal("35.59")
+	},
+	{
+		"nationality" : "Togo",
+		"avg_bmi" : NumberDecimal("23.27"),
+		"min_bmi" : NumberDecimal("21.48"),
+		"max_bmi" : NumberDecimal("24.56")
+	},
+	{
+		"nationality" : "Tonga",
+		"avg_bmi" : NumberDecimal("23.83"),
+		"min_bmi" : NumberDecimal("23.83"),
+		"max_bmi" : NumberDecimal("23.83")
+	},
+	{
+		"nationality" : "Trinidad and Tobago",
+		"avg_bmi" : NumberDecimal("27.60"),
+		"min_bmi" : NumberDecimal("22.71"),
+		"max_bmi" : NumberDecimal("31.52")
+	},
+	{
+		"nationality" : "Tunisia",
+		"avg_bmi" : NumberDecimal("24.19"),
+		"min_bmi" : NumberDecimal("18.61"),
+		"max_bmi" : NumberDecimal("30.38")
+	},
+	{
+		"nationality" : "Turkey",
+		"avg_bmi" : NumberDecimal("22.99"),
+		"min_bmi" : NumberDecimal("22.71"),
+		"max_bmi" : NumberDecimal("23.22")
+	},
+	{
+		"nationality" : "Turkmenistan",
+		"avg_bmi" : NumberDecimal("26.07"),
+		"min_bmi" : NumberDecimal("21.54"),
+		"max_bmi" : NumberDecimal("30.26")
+	},
+	{
+		"nationality" : "Tuvalu",
+		"avg_bmi" : NumberDecimal("22.60"),
+		"min_bmi" : NumberDecimal("22.60"),
+		"max_bmi" : NumberDecimal("22.60")
+	},
+	{
+		"nationality" : "Uganda",
+		"avg_bmi" : NumberDecimal("25.80"),
+		"min_bmi" : NumberDecimal("20.59"),
+		"max_bmi" : NumberDecimal("33.25")
+	},
+	{
+		"nationality" : "Ukraine",
+		"avg_bmi" : NumberDecimal("25.21"),
+		"min_bmi" : NumberDecimal("17.02"),
+		"max_bmi" : NumberDecimal("36.84")
+	},
+	{
+		"nationality" : "United Arab Emirates",
+		"avg_bmi" : NumberDecimal("26.57"),
+		"min_bmi" : NumberDecimal("23.39"),
+		"max_bmi" : NumberDecimal("29.75")
+	},
+	{
+		"nationality" : "United Kingdom",
+		"avg_bmi" : NumberDecimal("23.79"),
+		"min_bmi" : NumberDecimal("19.43"),
+		"max_bmi" : NumberDecimal("31.90")
+	},
+	{
+		"nationality" : "United States",
+		"avg_bmi" : NumberDecimal("25.75"),
+		"min_bmi" : NumberDecimal("18.80"),
+		"max_bmi" : NumberDecimal("36.70")
+	},
+	{
+		"nationality" : "Uruguay",
+		"avg_bmi" : NumberDecimal("25.32"),
+		"min_bmi" : NumberDecimal("20.37"),
+		"max_bmi" : NumberDecimal("34.36")
+	},
+	{
+		"nationality" : "Uzbekistan",
+		"avg_bmi" : NumberDecimal("25.90"),
+		"min_bmi" : NumberDecimal("19.78"),
+		"max_bmi" : NumberDecimal("32.30")
+	},
+	{
+		"nationality" : "Vanuatu",
+		"avg_bmi" : NumberDecimal("24.70"),
+		"min_bmi" : NumberDecimal("23.05"),
+		"max_bmi" : NumberDecimal("27.21")
+	},
+	{
+		"nationality" : "Venezuela",
+		"avg_bmi" : NumberDecimal("24.91"),
+		"min_bmi" : NumberDecimal("19.14"),
+		"max_bmi" : NumberDecimal("31.14")
+	},
+	{
+		"nationality" : "Vietnam",
+		"avg_bmi" : NumberDecimal("25.04"),
+		"min_bmi" : NumberDecimal("16.59"),
+		"max_bmi" : NumberDecimal("32.97")
+	},
+	{
+		"nationality" : "Wallis and Futuna",
+		"avg_bmi" : NumberDecimal("26.38"),
+		"min_bmi" : NumberDecimal("24.33"),
+		"max_bmi" : NumberDecimal("28.43")
+	},
+	{
+		"nationality" : "Western Sahara",
+		"avg_bmi" : NumberDecimal("22.75"),
+		"min_bmi" : NumberDecimal("22.75"),
+		"max_bmi" : NumberDecimal("22.75")
+	},
+	{
+		"nationality" : "Yemen",
+		"avg_bmi" : NumberDecimal("25.52"),
+		"min_bmi" : NumberDecimal("20.91"),
+		"max_bmi" : NumberDecimal("34.85")
+	},
+	{
+		"nationality" : "Zambia",
+		"avg_bmi" : NumberDecimal("25.86"),
+		"min_bmi" : NumberDecimal("20.34"),
+		"max_bmi" : NumberDecimal("31.45")
+	},
+	{
+		"nationality" : "Zimbabwe",
+		"avg_bmi" : NumberDecimal("26.98"),
+		"min_bmi" : NumberDecimal("22.61"),
+		"max_bmi" : NumberDecimal("35.12")
+	}
+]

@@ -1,0 +1,30 @@
+﻿[
+  {
+    "person.name": "Cameron Crowe",
+    "movies_count": 1,
+    "movie_list": [
+      "Jerry Maguire"
+    ]
+  },
+  {
+    "person.name": "Lana Wachowski",
+    "movies_count": 1,
+    "movie_list": [
+      "Speed Racer"
+    ]
+  },
+  {
+    "person.name": "Lilly Wachowski",
+    "movies_count": 1,
+    "movie_list": [
+      "Speed Racer"
+    ]
+  },
+  {
+    "person.name": "Nancy Meyers",
+    "movies_count": 1,
+    "movie_list": [
+      "Something's Gotta Give"
+    ]
+  }
+]

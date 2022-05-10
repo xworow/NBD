@@ -1,0 +1,5 @@
+match (person:Person)-[r1]->(movie:Movie), 
+      (person:Person)-[r2]->(movie:Movie)
+where type(r1) in ["DIRECTED"]
+      and type(r2) in ["WROTE"]
+return person.name, count(movie) as movies_count, collect(movie.title) as movie_list

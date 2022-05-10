@@ -1,0 +1,786 @@
+﻿[
+  {
+    "actor.name": "Keanu Reeves",
+    "count(movie)": 7,
+    "collect(movie.title)": [
+      "Something's Gotta Give",
+      "The Replacements",
+      "Johnny Mnemonic",
+      "The Devil's Advocate",
+      "The Matrix Revolutions",
+      "The Matrix Reloaded",
+      "The Matrix"
+    ]
+  },
+  {
+    "actor.name": "Carrie-Anne Moss",
+    "count(movie)": 3,
+    "collect(movie.title)": [
+      "The Matrix Revolutions",
+      "The Matrix Reloaded",
+      "The Matrix"
+    ]
+  },
+  {
+    "actor.name": "Laurence Fishburne",
+    "count(movie)": 3,
+    "collect(movie.title)": [
+      "The Matrix Revolutions",
+      "The Matrix Reloaded",
+      "The Matrix"
+    ]
+  },
+  {
+    "actor.name": "Hugo Weaving",
+    "count(movie)": 5,
+    "collect(movie.title)": [
+      "Cloud Atlas",
+      "V for Vendetta",
+      "The Matrix Revolutions",
+      "The Matrix Reloaded",
+      "The Matrix"
+    ]
+  },
+  {
+    "actor.name": "Emil Eifrem",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Matrix"
+    ]
+  },
+  {
+    "actor.name": "Charlize Theron",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "That Thing You Do",
+      "The Devil's Advocate"
+    ]
+  },
+  {
+    "actor.name": "Al Pacino",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Devil's Advocate"
+    ]
+  },
+  {
+    "actor.name": "Tom Cruise",
+    "count(movie)": 3,
+    "collect(movie.title)": [
+      "Jerry Maguire",
+      "Top Gun",
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Jack Nicholson",
+    "count(movie)": 5,
+    "collect(movie.title)": [
+      "As Good as It Gets",
+      "One Flew Over the Cuckoo's Nest",
+      "Something's Gotta Give",
+      "Hoffa",
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Demi Moore",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Kevin Bacon",
+    "count(movie)": 3,
+    "collect(movie.title)": [
+      "Apollo 13",
+      "Frost/Nixon",
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Kiefer Sutherland",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Stand By Me",
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Noah Wyle",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Cuba Gooding Jr.",
+    "count(movie)": 4,
+    "collect(movie.title)": [
+      "What Dreams May Come",
+      "Jerry Maguire",
+      "As Good as It Gets",
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Kevin Pollak",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "J.T. Walsh",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Hoffa",
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "James Marshall",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Christopher Guest",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Aaron Sorkin",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "A Few Good Men"
+    ]
+  },
+  {
+    "actor.name": "Kelly McGillis",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Top Gun"
+    ]
+  },
+  {
+    "actor.name": "Val Kilmer",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Top Gun"
+    ]
+  },
+  {
+    "actor.name": "Anthony Edwards",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Top Gun"
+    ]
+  },
+  {
+    "actor.name": "Tom Skerritt",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Top Gun"
+    ]
+  },
+  {
+    "actor.name": "Meg Ryan",
+    "count(movie)": 5,
+    "collect(movie.title)": [
+      "Sleepless in Seattle",
+      "You've Got Mail",
+      "Top Gun",
+      "When Harry Met Sally",
+      "Joe Versus the Volcano"
+    ]
+  },
+  {
+    "actor.name": "Renee Zellweger",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Jerry Maguire"
+    ]
+  },
+  {
+    "actor.name": "Kelly Preston",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Jerry Maguire"
+    ]
+  },
+  {
+    "actor.name": "Jerry O'Connell",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Jerry Maguire",
+      "Stand By Me"
+    ]
+  },
+  {
+    "actor.name": "Jay Mohr",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Jerry Maguire"
+    ]
+  },
+  {
+    "actor.name": "Bonnie Hunt",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "The Green Mile",
+      "Jerry Maguire"
+    ]
+  },
+  {
+    "actor.name": "Regina King",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Jerry Maguire"
+    ]
+  },
+  {
+    "actor.name": "Jonathan Lipnicki",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Jerry Maguire"
+    ]
+  },
+  {
+    "actor.name": "River Phoenix",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Stand By Me"
+    ]
+  },
+  {
+    "actor.name": "Corey Feldman",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Stand By Me"
+    ]
+  },
+  {
+    "actor.name": "Wil Wheaton",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Stand By Me"
+    ]
+  },
+  {
+    "actor.name": "John Cusack",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Stand By Me"
+    ]
+  },
+  {
+    "actor.name": "Marshall Bell",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Stand By Me",
+      "RescueDawn"
+    ]
+  },
+  {
+    "actor.name": "Helen Hunt",
+    "count(movie)": 3,
+    "collect(movie.title)": [
+      "As Good as It Gets",
+      "Cast Away",
+      "Twister"
+    ]
+  },
+  {
+    "actor.name": "Greg Kinnear",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "You've Got Mail",
+      "As Good as It Gets"
+    ]
+  },
+  {
+    "actor.name": "Annabella Sciorra",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "What Dreams May Come"
+    ]
+  },
+  {
+    "actor.name": "Max von Sydow",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "What Dreams May Come",
+      "Snow Falling on Cedars"
+    ]
+  },
+  {
+    "actor.name": "Werner Herzog",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "What Dreams May Come"
+    ]
+  },
+  {
+    "actor.name": "Robin Williams",
+    "count(movie)": 3,
+    "collect(movie.title)": [
+      "What Dreams May Come",
+      "Bicentennial Man",
+      "The Birdcage"
+    ]
+  },
+  {
+    "actor.name": "Ethan Hawke",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Snow Falling on Cedars"
+    ]
+  },
+  {
+    "actor.name": "Rick Yune",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Ninja Assassin",
+      "Snow Falling on Cedars"
+    ]
+  },
+  {
+    "actor.name": "James Cromwell",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "The Green Mile",
+      "Snow Falling on Cedars"
+    ]
+  },
+  {
+    "actor.name": "Parker Posey",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "You've Got Mail"
+    ]
+  },
+  {
+    "actor.name": "Dave Chappelle",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "You've Got Mail"
+    ]
+  },
+  {
+    "actor.name": "Steve Zahn",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "RescueDawn",
+      "You've Got Mail"
+    ]
+  },
+  {
+    "actor.name": "Tom Hanks",
+    "count(movie)": 12,
+    "collect(movie.title)": [
+      "Apollo 13",
+      "You've Got Mail",
+      "A League of Their Own",
+      "Joe Versus the Volcano",
+      "That Thing You Do",
+      "The Da Vinci Code",
+      "Cloud Atlas",
+      "Cast Away",
+      "The Green Mile",
+      "Sleepless in Seattle",
+      "The Polar Express",
+      "Charlie Wilson's War"
+    ]
+  },
+  {
+    "actor.name": "Rita Wilson",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Sleepless in Seattle"
+    ]
+  },
+  {
+    "actor.name": "Bill Pullman",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Sleepless in Seattle"
+    ]
+  },
+  {
+    "actor.name": "Victor Garber",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Sleepless in Seattle"
+    ]
+  },
+  {
+    "actor.name": "Rosie O'Donnell",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "A League of Their Own",
+      "Sleepless in Seattle"
+    ]
+  },
+  {
+    "actor.name": "Nathan Lane",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Joe Versus the Volcano",
+      "The Birdcage"
+    ]
+  },
+  {
+    "actor.name": "Billy Crystal",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "When Harry Met Sally"
+    ]
+  },
+  {
+    "actor.name": "Carrie Fisher",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "When Harry Met Sally"
+    ]
+  },
+  {
+    "actor.name": "Bruno Kirby",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "When Harry Met Sally"
+    ]
+  },
+  {
+    "actor.name": "Liv Tyler",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "That Thing You Do"
+    ]
+  },
+  {
+    "actor.name": "Brooke Langton",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Replacements"
+    ]
+  },
+  {
+    "actor.name": "Gene Hackman",
+    "count(movie)": 3,
+    "collect(movie.title)": [
+      "Unforgiven",
+      "The Birdcage",
+      "The Replacements"
+    ]
+  },
+  {
+    "actor.name": "Orlando Jones",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Replacements"
+    ]
+  },
+  {
+    "actor.name": "Christian Bale",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "RescueDawn"
+    ]
+  },
+  {
+    "actor.name": "Zach Grenier",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "RescueDawn",
+      "Twister"
+    ]
+  },
+  {
+    "actor.name": "Richard Harris",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Unforgiven"
+    ]
+  },
+  {
+    "actor.name": "Clint Eastwood",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Unforgiven"
+    ]
+  },
+  {
+    "actor.name": "Takeshi Kitano",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Johnny Mnemonic"
+    ]
+  },
+  {
+    "actor.name": "Dina Meyer",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Johnny Mnemonic"
+    ]
+  },
+  {
+    "actor.name": "Ice-T",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Johnny Mnemonic"
+    ]
+  },
+  {
+    "actor.name": "Halle Berry",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Cloud Atlas"
+    ]
+  },
+  {
+    "actor.name": "Jim Broadbent",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Cloud Atlas"
+    ]
+  },
+  {
+    "actor.name": "Ian McKellen",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Da Vinci Code"
+    ]
+  },
+  {
+    "actor.name": "Audrey Tautou",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Da Vinci Code"
+    ]
+  },
+  {
+    "actor.name": "Paul Bettany",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Da Vinci Code"
+    ]
+  },
+  {
+    "actor.name": "Natalie Portman",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "V for Vendetta"
+    ]
+  },
+  {
+    "actor.name": "Stephen Rea",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "V for Vendetta"
+    ]
+  },
+  {
+    "actor.name": "John Hurt",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "V for Vendetta"
+    ]
+  },
+  {
+    "actor.name": "Ben Miles",
+    "count(movie)": 3,
+    "collect(movie.title)": [
+      "Speed Racer",
+      "Ninja Assassin",
+      "V for Vendetta"
+    ]
+  },
+  {
+    "actor.name": "Emile Hirsch",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Speed Racer"
+    ]
+  },
+  {
+    "actor.name": "John Goodman",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Speed Racer"
+    ]
+  },
+  {
+    "actor.name": "Susan Sarandon",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Speed Racer"
+    ]
+  },
+  {
+    "actor.name": "Matthew Fox",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Speed Racer"
+    ]
+  },
+  {
+    "actor.name": "Christina Ricci",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Speed Racer"
+    ]
+  },
+  {
+    "actor.name": "Rain",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Speed Racer",
+      "Ninja Assassin"
+    ]
+  },
+  {
+    "actor.name": "Naomie Harris",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Ninja Assassin"
+    ]
+  },
+  {
+    "actor.name": "Michael Clarke Duncan",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Green Mile"
+    ]
+  },
+  {
+    "actor.name": "David Morse",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Green Mile"
+    ]
+  },
+  {
+    "actor.name": "Sam Rockwell",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "The Green Mile",
+      "Frost/Nixon"
+    ]
+  },
+  {
+    "actor.name": "Gary Sinise",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Apollo 13",
+      "The Green Mile"
+    ]
+  },
+  {
+    "actor.name": "Patricia Clarkson",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "The Green Mile"
+    ]
+  },
+  {
+    "actor.name": "Frank Langella",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Frost/Nixon"
+    ]
+  },
+  {
+    "actor.name": "Michael Sheen",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Frost/Nixon"
+    ]
+  },
+  {
+    "actor.name": "Oliver Platt",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Frost/Nixon",
+      "Bicentennial Man"
+    ]
+  },
+  {
+    "actor.name": "Danny DeVito",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Hoffa",
+      "One Flew Over the Cuckoo's Nest"
+    ]
+  },
+  {
+    "actor.name": "John C. Reilly",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Hoffa"
+    ]
+  },
+  {
+    "actor.name": "Ed Harris",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Apollo 13"
+    ]
+  },
+  {
+    "actor.name": "Bill Paxton",
+    "count(movie)": 3,
+    "collect(movie.title)": [
+      "Twister",
+      "A League of Their Own",
+      "Apollo 13"
+    ]
+  },
+  {
+    "actor.name": "Philip Seymour Hoffman",
+    "count(movie)": 2,
+    "collect(movie.title)": [
+      "Twister",
+      "Charlie Wilson's War"
+    ]
+  },
+  {
+    "actor.name": "Diane Keaton",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Something's Gotta Give"
+    ]
+  },
+  {
+    "actor.name": "Julia Roberts",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "Charlie Wilson's War"
+    ]
+  },
+  {
+    "actor.name": "Madonna",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "A League of Their Own"
+    ]
+  },
+  {
+    "actor.name": "Geena Davis",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "A League of Their Own"
+    ]
+  },
+  {
+    "actor.name": "Lori Petty",
+    "count(movie)": 1,
+    "collect(movie.title)": [
+      "A League of Their Own"
+    ]
+  }
+]

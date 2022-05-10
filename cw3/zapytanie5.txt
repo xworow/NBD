@@ -1,0 +1,5 @@
+match (matrix:Movie {title: "The Matrix"})<-[:ACTED_IN]-(actor:Person)-[:ACTED_IN]->(m
+) return actor, m
+
+match (matrix:Movie {title: "The Matrix"})<-[:ACTED_IN]-(actor:Person)-[:ACTED_IN]->(m
+) return distinct m.title

@@ -1,0 +1,371 @@
+MongoDB shell version v5.0.6
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("f8f0a118-cc98-40dc-8e22-c800881b3418") }
+MongoDB server version: 5.0.6
+[
+	{
+		"currency" : "AFN",
+		"avg_balance" : NumberDecimal("5585.16"),
+		"sum_balance" : NumberDecimal("16755.49")
+	},
+	{
+		"currency" : "ALL",
+		"avg_balance" : NumberDecimal("3325.48"),
+		"sum_balance" : NumberDecimal("3325.48")
+	},
+	{
+		"currency" : "AMD",
+		"avg_balance" : NumberDecimal("4921.87"),
+		"sum_balance" : NumberDecimal("24609.33")
+	},
+	{
+		"currency" : "ARS",
+		"avg_balance" : NumberDecimal("4648.40"),
+		"sum_balance" : NumberDecimal("23242.00")
+	},
+	{
+		"currency" : "BGN",
+		"avg_balance" : NumberDecimal("5300.22"),
+		"sum_balance" : NumberDecimal("21200.88")
+	},
+	{
+		"currency" : "BOB",
+		"avg_balance" : NumberDecimal("5263.30"),
+		"sum_balance" : NumberDecimal("5263.30")
+	},
+	{
+		"currency" : "BRL",
+		"avg_balance" : NumberDecimal("4512.00"),
+		"sum_balance" : NumberDecimal("49632.02")
+	},
+	{
+		"currency" : "BWP",
+		"avg_balance" : NumberDecimal("4076.29"),
+		"sum_balance" : NumberDecimal("4076.29")
+	},
+	{
+		"currency" : "BYR",
+		"avg_balance" : NumberDecimal("5095.79"),
+		"sum_balance" : NumberDecimal("5095.79")
+	},
+	{
+		"currency" : "CAD",
+		"avg_balance" : NumberDecimal("5306.87"),
+		"sum_balance" : NumberDecimal("58375.60")
+	},
+	{
+		"currency" : "CDF",
+		"avg_balance" : NumberDecimal("6114.40"),
+		"sum_balance" : NumberDecimal("12228.80")
+	},
+	{
+		"currency" : "CLP",
+		"avg_balance" : NumberDecimal("5252.24"),
+		"sum_balance" : NumberDecimal("21008.95")
+	},
+	{
+		"currency" : "CNY",
+		"avg_balance" : NumberDecimal("4954.74"),
+		"sum_balance" : NumberDecimal("470700.38")
+	},
+	{
+		"currency" : "COP",
+		"avg_balance" : NumberDecimal("4936.68"),
+		"sum_balance" : NumberDecimal("19746.73")
+	},
+	{
+		"currency" : "CUP",
+		"avg_balance" : NumberDecimal("5005.78"),
+		"sum_balance" : NumberDecimal("15017.34")
+	},
+	{
+		"currency" : "CZK",
+		"avg_balance" : NumberDecimal("4644.55"),
+		"sum_balance" : NumberDecimal("37156.42")
+	},
+	{
+		"currency" : "DOP",
+		"avg_balance" : NumberDecimal("5168.68"),
+		"sum_balance" : NumberDecimal("20674.74")
+	},
+	{
+		"currency" : "EGP",
+		"avg_balance" : NumberDecimal("5579.30"),
+		"sum_balance" : NumberDecimal("5579.30")
+	},
+	{
+		"currency" : "ETB",
+		"avg_balance" : NumberDecimal("5436.11"),
+		"sum_balance" : NumberDecimal("5436.11")
+	},
+	{
+		"currency" : "EUR",
+		"avg_balance" : NumberDecimal("4901.83"),
+		"sum_balance" : NumberDecimal("245091.47")
+	},
+	{
+		"currency" : "GBP",
+		"avg_balance" : NumberDecimal("6149.19"),
+		"sum_balance" : NumberDecimal("6149.19")
+	},
+	{
+		"currency" : "GTQ",
+		"avg_balance" : NumberDecimal("5806.30"),
+		"sum_balance" : NumberDecimal("5806.30")
+	},
+	{
+		"currency" : "HNL",
+		"avg_balance" : NumberDecimal("5504.86"),
+		"sum_balance" : NumberDecimal("16514.59")
+	},
+	{
+		"currency" : "HRK",
+		"avg_balance" : NumberDecimal("4870.96"),
+		"sum_balance" : NumberDecimal("24354.82")
+	},
+	{
+		"currency" : "IDR",
+		"avg_balance" : NumberDecimal("4907.92"),
+		"sum_balance" : NumberDecimal("323922.59")
+	},
+	{
+		"currency" : "ILS",
+		"avg_balance" : NumberDecimal("5431.83"),
+		"sum_balance" : NumberDecimal("16295.49")
+	},
+	{
+		"currency" : "IQD",
+		"avg_balance" : NumberDecimal("4269.39"),
+		"sum_balance" : NumberDecimal("4269.39")
+	},
+	{
+		"currency" : "IRR",
+		"avg_balance" : NumberDecimal("4417.37"),
+		"sum_balance" : NumberDecimal("26504.24")
+	},
+	{
+		"currency" : "ISK",
+		"avg_balance" : NumberDecimal("4316.41"),
+		"sum_balance" : NumberDecimal("4316.41")
+	},
+	{
+		"currency" : "JPY",
+		"avg_balance" : NumberDecimal("5078.73"),
+		"sum_balance" : NumberDecimal("60944.74")
+	},
+	{
+		"currency" : "KRW",
+		"avg_balance" : NumberDecimal("6689.91"),
+		"sum_balance" : NumberDecimal("13379.82")
+	},
+	{
+		"currency" : "KYD",
+		"avg_balance" : NumberDecimal("3760.89"),
+		"sum_balance" : NumberDecimal("3760.89")
+	},
+	{
+		"currency" : "KZT",
+		"avg_balance" : NumberDecimal("3788.95"),
+		"sum_balance" : NumberDecimal("3788.95")
+	},
+	{
+		"currency" : "LYD",
+		"avg_balance" : NumberDecimal("4382.50"),
+		"sum_balance" : NumberDecimal("8764.99")
+	},
+	{
+		"currency" : "MAD",
+		"avg_balance" : NumberDecimal("3818.85"),
+		"sum_balance" : NumberDecimal("3818.85")
+	},
+	{
+		"currency" : "MGA",
+		"avg_balance" : NumberDecimal("4853.66"),
+		"sum_balance" : NumberDecimal("14560.99")
+	},
+	{
+		"currency" : "MKD",
+		"avg_balance" : NumberDecimal("3835.05"),
+		"sum_balance" : NumberDecimal("3835.05")
+	},
+	{
+		"currency" : "MMK",
+		"avg_balance" : NumberDecimal("4629.42"),
+		"sum_balance" : NumberDecimal("4629.42")
+	},
+	{
+		"currency" : "MNT",
+		"avg_balance" : NumberDecimal("5428.90"),
+		"sum_balance" : NumberDecimal("21715.61")
+	},
+	{
+		"currency" : "MWK",
+		"avg_balance" : NumberDecimal("3574.42"),
+		"sum_balance" : NumberDecimal("3574.42")
+	},
+	{
+		"currency" : "MXN",
+		"avg_balance" : NumberDecimal("5022.90"),
+		"sum_balance" : NumberDecimal("50229.00")
+	},
+	{
+		"currency" : "MYR",
+		"avg_balance" : NumberDecimal("4781.12"),
+		"sum_balance" : NumberDecimal("4781.12")
+	},
+	{
+		"currency" : "NGN",
+		"avg_balance" : NumberDecimal("4157.70"),
+		"sum_balance" : NumberDecimal("24946.23")
+	},
+	{
+		"currency" : "NIO",
+		"avg_balance" : NumberDecimal("4985.64"),
+		"sum_balance" : NumberDecimal("9971.28")
+	},
+	{
+		"currency" : "NOK",
+		"avg_balance" : NumberDecimal("4773.66"),
+		"sum_balance" : NumberDecimal("4773.66")
+	},
+	{
+		"currency" : "NPR",
+		"avg_balance" : NumberDecimal("5792.26"),
+		"sum_balance" : NumberDecimal("5792.26")
+	},
+	{
+		"currency" : "NZD",
+		"avg_balance" : NumberDecimal("5328.46"),
+		"sum_balance" : NumberDecimal("5328.46")
+	},
+	{
+		"currency" : "PEN",
+		"avg_balance" : NumberDecimal("4661.24"),
+		"sum_balance" : NumberDecimal("18644.94")
+	},
+	{
+		"currency" : "PHP",
+		"avg_balance" : NumberDecimal("4941.93"),
+		"sum_balance" : NumberDecimal("118606.28")
+	},
+	{
+		"currency" : "PKR",
+		"avg_balance" : NumberDecimal("4734.50"),
+		"sum_balance" : NumberDecimal("18938.00")
+	},
+	{
+		"currency" : "PLN",
+		"avg_balance" : NumberDecimal("5042.82"),
+		"sum_balance" : NumberDecimal("90770.78")
+	},
+	{
+		"currency" : "PYG",
+		"avg_balance" : NumberDecimal("4874.69"),
+		"sum_balance" : NumberDecimal("4874.69")
+	},
+	{
+		"currency" : "RSD",
+		"avg_balance" : NumberDecimal("4276.56"),
+		"sum_balance" : NumberDecimal("4276.56")
+	},
+	{
+		"currency" : "RUB",
+		"avg_balance" : NumberDecimal("4989.55"),
+		"sum_balance" : NumberDecimal("119749.15")
+	},
+	{
+		"currency" : "RWF",
+		"avg_balance" : NumberDecimal("4632.88"),
+		"sum_balance" : NumberDecimal("4632.88")
+	},
+	{
+		"currency" : "SEK",
+		"avg_balance" : NumberDecimal("5060.01"),
+		"sum_balance" : NumberDecimal("70840.19")
+	},
+	{
+		"currency" : "SRD",
+		"avg_balance" : NumberDecimal("5286.68"),
+		"sum_balance" : NumberDecimal("5286.68")
+	},
+	{
+		"currency" : "THB",
+		"avg_balance" : NumberDecimal("4604.39"),
+		"sum_balance" : NumberDecimal("23021.96")
+	},
+	{
+		"currency" : "TJS",
+		"avg_balance" : NumberDecimal("4087.71"),
+		"sum_balance" : NumberDecimal("4087.71")
+	},
+	{
+		"currency" : "TZS",
+		"avg_balance" : NumberDecimal("3526.18"),
+		"sum_balance" : NumberDecimal("7052.37")
+	},
+	{
+		"currency" : "UAH",
+		"avg_balance" : NumberDecimal("5058.98"),
+		"sum_balance" : NumberDecimal("40471.84")
+	},
+	{
+		"currency" : "USD",
+		"avg_balance" : NumberDecimal("4978.73"),
+		"sum_balance" : NumberDecimal("74680.98")
+	},
+	{
+		"currency" : "UZS",
+		"avg_balance" : NumberDecimal("3573.03"),
+		"sum_balance" : NumberDecimal("3573.03")
+	},
+	{
+		"currency" : "VEF",
+		"avg_balance" : NumberDecimal("4166.64"),
+		"sum_balance" : NumberDecimal("8333.28")
+	},
+	{
+		"currency" : "VND",
+		"avg_balance" : NumberDecimal("4520.03"),
+		"sum_balance" : NumberDecimal("36160.26")
+	},
+	{
+		"currency" : "VUV",
+		"avg_balance" : NumberDecimal("6418.27"),
+		"sum_balance" : NumberDecimal("6418.27")
+	},
+	{
+		"currency" : "XAF",
+		"avg_balance" : NumberDecimal("4698.22"),
+		"sum_balance" : NumberDecimal("14094.66")
+	},
+	{
+		"currency" : "XOF",
+		"avg_balance" : NumberDecimal("5960.68"),
+		"sum_balance" : NumberDecimal("17882.05")
+	},
+	{
+		"currency" : "XPF",
+		"avg_balance" : NumberDecimal("4759.07"),
+		"sum_balance" : NumberDecimal("4759.07")
+	},
+	{
+		"currency" : "YER",
+		"avg_balance" : NumberDecimal("4570.83"),
+		"sum_balance" : NumberDecimal("13712.50")
+	},
+	{
+		"currency" : "ZAR",
+		"avg_balance" : NumberDecimal("3930.31"),
+		"sum_balance" : NumberDecimal("11790.92")
+	},
+	{
+		"currency" : "ZMW",
+		"avg_balance" : NumberDecimal("5569.56"),
+		"sum_balance" : NumberDecimal("5569.56")
+	},
+	{
+		"currency" : "ZWL",
+		"avg_balance" : NumberDecimal("5792.17"),
+		"sum_balance" : NumberDecimal("5792.17")
+	}
+]

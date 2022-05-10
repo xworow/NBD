@@ -1,0 +1,7 @@
+match (movie:Movie)
+where  ({name: "Keanu Reeves"})-[:ACTED_IN]->(movie)<-[:ACTED_IN]-({name: "Hugo Weaving"})
+return movie
+
+match (movie:Movie)
+where  ({name: "Keanu Reeves"})-[:ACTED_IN]->(movie)<-[:ACTED_IN]-({name: "Hugo Weaving"})
+return movie.title

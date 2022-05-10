@@ -1,0 +1,19 @@
+create (CaptainAmerica: Movie {title: "Captain America", released: 2011, tagline: "Who knows??" })
+
+create (JoeJohnson: Person {name: "Joe Johnson", born: 1950})
+create (JoeJohnson)-[:DIRECTED]->(CaptainAmerica)
+
+create (ChristopherMarkus: Person {name: "Christopher Markus", born: 1950})
+create (StephenMcFeely: Person {name: "Stephen McFeely", born: 1950})
+create (JoeSimon: Person {name: "Joe Simon", born: 1950})
+
+create (ChristopherMarkus)-[:WROTE]->(CaptainAmerica)
+create (StephenMcFeely)-[:WROTE]->(CaptainAmerica)
+create (JoeSimon)-[:WROTE]->(CaptainAmerica)
+
+create (ChrisEvans: Person {name: "Chris Evans", born: 1950})
+create (SamuelLJackson: Person {name: "Samuel L. Jackson", born: 1950})
+
+create (ChrisEvans)-[:ACTED_IN]->(CaptainAmerica)
+create (SamuelLJackson)-[:ACTED_IN]->(CaptainAmerica)
+create (Hugo)-[:ACTED_IN]->(CaptainAmerica)

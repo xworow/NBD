@@ -1,0 +1,3 @@
+match (hugo:Person {name: "Hugo Weaving"})-[:ACTED_IN]->(movies)<-[:DIRECTED]-(director) return distinct director.name
+
+match (hugo:Person {name: "Hugo Weaving"})-[:ACTED_IN]->(movies)<-[:DIRECTED]-(director) return movies, director
