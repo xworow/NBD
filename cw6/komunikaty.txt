@@ -1,0 +1,4 @@
+{'narodowosc': 'Polska', 'imie': 'Zenon', 'nazwisko': 'Wojciechowski', 'rok_urodzenia': 2002}
+{'narodowosc': 'Polska', 'imie': 'Zenon', 'nazwisko': 'Adamski', 'rok_urodzenia': 2002}
+<riak.riak_object.RiakObject object at 0x7fd9b09a22b0>
+False

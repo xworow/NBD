@@ -1,0 +1,45 @@
+zadanie 1
+
+match path = ShortestPath((dj: town{name: 'Darjeeling'})-[*]->(p:peak{name:'Sandakphu'})) 
+return path
+
+
+zadanie 2
+
+match (dj: town{name: 'Darjeeling'}),
+      (p:peak{name:'Sandakphu'}),
+      path = shortestPath((dj)-[*]->(p))
+where none(r in relationships(path) where r.winter = 'false')
+return path
+
+
+zapytanie 3
+
+match path = (dj: town{name: 'Darjeeling'})-[*]->(p:peak{name:'Sandakphu'})
+with path, 
+     reduce(dist=0, route in relationships(path) | dist + route.distance) as total_distance, 
+     reduce(total_path='',  path_elem in nodes(path) | total_path + ' -> ' + path_elem.name) as total_path 
+order by total_distance
+return distinct total_distance, total_path
+
+
+zapytanie 4
+
+match (dj: town{name: 'Darjeeling'}),
+      path = (dj)-[:twowheeler|road*]->(p)
+where none(r in relationships(path) where r.summer = 'false')
+return path
+
+
+zapytanie 5
+match (fl: Flight)-[or: ORIGIN]->(ap: Airport)
+return ap.name as airport, count(or) as n_flights
+order by n_flights desc
+
+
+
+zapytanie 6
+match (la:Airport {name: "LAX"})<-[:ORIGIN]-(fl:Flight)-[:DESTINATION]->(dest:Airport)
+where dest.name <> 'LAX'
+return la, fl, dest
+

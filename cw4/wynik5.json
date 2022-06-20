@@ -1,0 +1,202 @@
+﻿[
+  {
+    "airport": "ORD",
+    "n_flights": 48
+  },
+  {
+    "airport": "DTW",
+    "n_flights": 25
+  },
+  {
+    "airport": "IAH",
+    "n_flights": 23
+  },
+  {
+    "airport": "LAX",
+    "n_flights": 22
+  },
+  {
+    "airport": "DEN",
+    "n_flights": 18
+  },
+  {
+    "airport": "SFO",
+    "n_flights": 14
+  },
+  {
+    "airport": "AZO",
+    "n_flights": 13
+  },
+  {
+    "airport": "IAD",
+    "n_flights": 12
+  },
+  {
+    "airport": "BNA",
+    "n_flights": 12
+  },
+  {
+    "airport": "MSP",
+    "n_flights": 9
+  },
+  {
+    "airport": "MOT",
+    "n_flights": 8
+  },
+  {
+    "airport": "EWR",
+    "n_flights": 7
+  },
+  {
+    "airport": "SLC",
+    "n_flights": 5
+  },
+  {
+    "airport": "HNL",
+    "n_flights": 5
+  },
+  {
+    "airport": "FSD",
+    "n_flights": 5
+  },
+  {
+    "airport": "MCO",
+    "n_flights": 4
+  },
+  {
+    "airport": "PDX",
+    "n_flights": 4
+  },
+  {
+    "airport": "BOS",
+    "n_flights": 4
+  },
+  {
+    "airport": "DFW",
+    "n_flights": 4
+  },
+  {
+    "airport": "SAN",
+    "n_flights": 4
+  },
+  {
+    "airport": "BHM",
+    "n_flights": 4
+  },
+  {
+    "airport": "CVG",
+    "n_flights": 4
+  },
+  {
+    "airport": "ABQ",
+    "n_flights": 4
+  },
+  {
+    "airport": "FAT",
+    "n_flights": 4
+  },
+  {
+    "airport": "DLH",
+    "n_flights": 4
+  },
+  {
+    "airport": "SEA",
+    "n_flights": 3
+  },
+  {
+    "airport": "PHX",
+    "n_flights": 3
+  },
+  {
+    "airport": "SBN",
+    "n_flights": 3
+  },
+  {
+    "airport": "SNA",
+    "n_flights": 2
+  },
+  {
+    "airport": "LAS",
+    "n_flights": 2
+  },
+  {
+    "airport": "ATL",
+    "n_flights": 2
+  },
+  {
+    "airport": "CMH",
+    "n_flights": 2
+  },
+  {
+    "airport": "SJC",
+    "n_flights": 2
+  },
+  {
+    "airport": "LGA",
+    "n_flights": 2
+  },
+  {
+    "airport": "TUS",
+    "n_flights": 2
+  },
+  {
+    "airport": "SAT",
+    "n_flights": 1
+  },
+  {
+    "airport": "FLL",
+    "n_flights": 1
+  },
+  {
+    "airport": "KOA",
+    "n_flights": 1
+  },
+  {
+    "airport": "SMF",
+    "n_flights": 1
+  },
+  {
+    "airport": "RIC",
+    "n_flights": 1
+  },
+  {
+    "airport": "IND",
+    "n_flights": 1
+  },
+  {
+    "airport": "MCI",
+    "n_flights": 1
+  },
+  {
+    "airport": "MSN",
+    "n_flights": 1
+  },
+  {
+    "airport": "BIL",
+    "n_flights": 1
+  },
+  {
+    "airport": "ROC",
+    "n_flights": 1
+  },
+  {
+    "airport": "CLT",
+    "n_flights": 1
+  },
+  {
+    "airport": "DCA",
+    "n_flights": 1
+  },
+  {
+    "airport": "PBI",
+    "n_flights": 1
+  },
+  {
+    "airport": "MIA",
+    "n_flights": 1
+  },
+  {
+    "airport": "MOB",
+    "n_flights": 1
+  }
+]

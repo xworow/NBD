@@ -1,0 +1,48 @@
+Polecenia generowane na macos
+
+zadanie 1
+curl --request PUT -i -H "Content-Type: application/json" -d '{"imie": "Jan", "nazwisko": "Kowalski", "narodowosc": "Polska", "rok_urodzenia": 2000}'  http://localhost:8098/buckets/s25336/keys/s1 >> zadanie_1.txt
+
+curl --request PUT -i -H "Content-Type: application/json" -d '{"imie": "Janina", "nazwisko": "Kowalewska", "narodowosc": "Polska", "rok_urodzenia": 1999}'  http://localhost:8098/buckets/s25336/keys/s2 >> zadanie_1.txt
+
+curl --request PUT -i -H "Content-Type: application/json" -d '{"imie": "Marianna", "nazwisko": "Wiśniewska", "narodowosc": "Polska", "rok_urodzenia": 2000}'  http://localhost:8098/buckets/s25336/keys/s3 >> zadanie_1.txt
+
+curl --request PUT -i -H "Content-Type: application/json" -d '{"imie": "John", "nazwisko": "Holmes", "narodowosc": "USA", "rok_urodzenia": 2001}'  http://localhost:8098/buckets/s25336/keys/s4 >> zadanie_1.txt
+
+curl --request PUT -i -H "Content-Type: application/json" -d '{"imie": "Hans", "nazwisko": "Merkel", "narodowosc": "Niemcy", "rok_urodzenia": 2000}'  http://localhost:8098/buckets/s25336/keys/s5 >> zadanie_1.txt
+
+
+
+zadanie 2
+curl -i http://localhost:8098/buckets/s25336/keys/s1 >> zadanie_2.txt
+
+
+zadanie 3
+curl --request PUT -i -H "Content-Type: application/json" -d '{"imie": "Jan", "nazwisko": "Kowalski", "narodowosc": "Polska", "rok_urodzenia": 2000, "status": "student"}'  http://localhost:8098/buckets/s25336/keys/s1 >> zadanie_3.txt
+
+
+zadanie 4
+curl --request PUT -i -H "Content-Type: application/json" -d '{"imie": "Janina", "nazwisko": "Kowalewska", "rok_urodzenia": 1999}'  http://localhost:8098/buckets/s25336/keys/s2 >> zadanie_4.txt
+
+
+zadanie 5
+curl --request PUT -i -H "Content-Type: application/json" -d '{"imie": "Marianna", "nazwisko": "Wiśniewska", "narodowosc": "Polska", "rok_urodzenia": 1998}'  http://localhost:8098/buckets/s25336/keys/s3 >> zadanie_5.txt
+
+
+zadanie 6
+curl --request DELETE -i http://localhost:8098/buckets/s25336/keys/s5 >> zadanie_6.txt
+
+zadanie 7
+curl -i http://localhost:8098/buckets/s25336/keys/s7 >> zadanie_7.txt
+
+
+zadanie 8
+curl --request POST -i -H "Content-Type: application/json" -d '{"imie": "Adam"}'  http://localhost:8098/buckets/s25336/keys/ >> zadanie_8.txt
+
+
+zadanie 9
+curl -i http://localhost:8098/buckets/s25336/keys/MPyq6yEKLIemHCBqKdrivG922ud >> zadanie_9.txt
+
+
+zadanie 10
+curl --request DELETE -i http://localhost:8098/buckets/s25336/keys/MPyq6yEKLIemHCBqKdrivG922ud  >> zadanie_10.txt

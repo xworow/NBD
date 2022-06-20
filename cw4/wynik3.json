@@ -1,0 +1,26 @@
+﻿[
+  {
+    "total_distance": 32,
+    "total_path": " -> Darjeeling -> Tumbling -> Gairibus -> BhikeBhanja -> Sandakphu"
+  },
+  {
+    "total_distance": 37,
+    "total_path": " -> Darjeeling -> Rimbik -> Sirikhola -> Gurdum -> Sandakphu"
+  },
+  {
+    "total_distance": 37,
+    "total_path": " -> Darjeeling -> Rimbik -> BhikeBhanja -> Sandakphu"
+  },
+  {
+    "total_distance": 44,
+    "total_path": " -> Darjeeling -> Rimbik -> Tumbling -> Gairibus -> BhikeBhanja -> Sandakphu"
+  },
+  {
+    "total_distance": 48,
+    "total_path": " -> Darjeeling -> Rimbik -> Sirikhola -> Rammam -> Gurdum -> Sandakphu"
+  },
+  {
+    "total_distance": 55,
+    "total_path": " -> Darjeeling -> Rimbik -> Sirikhola -> Rammam -> Sabargram -> Sandakphu"
+  }
+]

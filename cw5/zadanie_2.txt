@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvvcJuXuDgUFdJIMpkTGPlUHtm/IdviwA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s25336>; rel="up"
+Last-Modified: Sun, 19 Jun 2022 19:33:58 GMT
+ETag: "47J0rQtRkAxQwNpE23Oru5"
+Date: Sun, 19 Jun 2022 19:34:48 GMT
+Content-Type: application/json
+Content-Length: 86
+
+{"imie": "Jan", "nazwisko": "Kowalski", "narodowosc": "Polska", "rok_urodzenia": 2000}
